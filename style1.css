@@ -23,10 +23,10 @@ p {
 }
 
 #cv {
-	width: 90%;
-	max-width: 950px;
+	width: 95%;
+	max-width: 1100px;
 	background: #f3f3f3;
-	margin: 30px auto;
+	margin: 10px auto;
 }
 
 .mainDetails {
@@ -59,7 +59,7 @@ p {
 }
 
 #headshot {
-  width: 16%;
+  width: 13%;
   float: left;
   margin-right: 72px;
 }
@@ -77,7 +77,7 @@ p {
 
 #contactDetails {
 	float: right;
-  padding-top: 75px;
+  padding-top: 120px;
 }
 
 #contactDetails ul {
